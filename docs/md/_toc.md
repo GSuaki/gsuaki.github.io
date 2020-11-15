@@ -1,8 +1,4 @@
 [Home](/)
-[Markdown Cheat Sheet](/docs/cheat-sheet)
-[Code Features](/docs/code-features)
-
-<br><br>
-
-To add links to your other documents, simply
-modify contents of `docs/md/_toc.md`.
+[Java 15 se tornou GA!](/docs/java-15-ga)
+[Programação Funcional em Java #2 - Descomplicando o Vavr](/docs/descomplicando-vavr)
+[Programação Funcional em Java #1 - Fundamentos básicos do paradigma](/docs/fundamentos-fp)
